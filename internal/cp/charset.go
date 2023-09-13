@@ -2,8 +2,6 @@ package cp
 
 import (
 	"strings"
-	"unicode/utf8"
-	"unsafe"
 )
 
 type charsetMap struct {
